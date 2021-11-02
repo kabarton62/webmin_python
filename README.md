@@ -3,7 +3,7 @@ Deploys two Docker containers, webmin 1.910 and python2_requests. Includes an ex
 
 git 
 
-cd /rce_exploit
+cd webmin_python/
 
 bash build.sh
 
