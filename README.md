@@ -9,3 +9,7 @@ bash build.sh
 
 All this assumes you have docker. Two containers are cleverly named webmin and python. There are not a lot of packages/tools on webmin, but there is enough to get a shell.
 Python is there just to avoid install Python2
+
+Once built, the PoC webmin2.py will be found in the python Docker container in /root/webmin2.py.
+
+Exploit webmin.
