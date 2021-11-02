@@ -1,7 +1,7 @@
 # webmin_python
 Deploys two Docker containers, webmin 1.910 and python2_requests. Includes an exploit PoC.
 
-git 
+git clone https://github.com/kabarton62/webmin_python.git
 
 cd webmin_python/
 
